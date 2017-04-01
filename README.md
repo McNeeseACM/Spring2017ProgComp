@@ -22,7 +22,7 @@
     * If you want to read more on MOSS, [you can check out the site!](https://theory.stanford.edu/~aiken/moss/)
 * The following sub-tracks/domains are off limits:
   * Any one dedicated to teaching a specific language
-   * IE: `C++`, `Python`, `Java`
+    * IE: `C++`, `Python`, `Java`
   * Anything under `Tutorials`
   * Mathematics:
     * `Algebra`
