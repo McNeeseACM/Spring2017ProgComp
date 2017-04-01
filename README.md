@@ -37,5 +37,11 @@
 * After the competition, winners of the day will be announced.
   * Pending any violations of the rules to be determined by MOSS and proctor jurisdiction, winners of monetary awards will be announced and processed 
   
+TEAMS:
+* Flaming Squirreladorks
+* Foltz
+* Casteel
+* Tenacious
+  
 ## Prizes
 * Amazon Gift Cards for the top 2 Teams!
